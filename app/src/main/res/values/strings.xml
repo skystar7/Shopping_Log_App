@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shopping Log</string>
+    <string name="shop_title_hint">Enter your shopping item\'s title</string>
+    <string name="shop_title_label">TITLE</string>
+    <string name="shop_detail_label">DETAILS</string>
+    <string name="shop_completed_text">Completed</string>
+    <string name="list_item_title">Shopping Item title</string>
+    <string name="list_item_date">Shopping Item Date</string>
+    <string name="delete_first_position">Delete First Position</string>
+</resources>
